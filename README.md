@@ -32,8 +32,8 @@ This webpage contains 3 main sections: **Home**, **NavBar** and **Anime**. In ad
 #### In this section you will see the recent episodes that have been uploaded, the anime of the day and anime of the week, and news related to anime.
 <table>
   <tr>
-    <td>![Home](img/Home.png)</td>
-    <td>![Slider](img/Slider.png)</td>
+    <td><img src="https://raw.githubusercontent.com/HolmesD0/Anime/main/img/Home.png" alt="Home" /></td>
+    <td><img src="https://raw.githubusercontent.com/HolmesD0/Anime/main/img/Slider.png" alt="Slider" /></td>
   </tr>
 </table>
 
@@ -41,8 +41,8 @@ This webpage contains 3 main sections: **Home**, **NavBar** and **Anime**. In ad
 #### In this section you can see the anime that are on this website.
 <table>
   <tr>
-    <td>![Eps](img/Eps.png)</td>
-    <td>![EpsAnime](img/EpsAnime.png)</td>
+    <td><img src="https://raw.githubusercontent.com/HolmesD0/Anime/main/img/Eps.png" alt="Eps" /></td>
+    <td><img src="https://raw.githubusercontent.com/HolmesD0/Anime/main/img/EpsAnime.png" alt="EpsAnime" /></td>
   </tr>
 </table>
 
@@ -50,27 +50,28 @@ This webpage contains 3 main sections: **Home**, **NavBar** and **Anime**. In ad
 #### In this section has a pagination and you can also filter them by genre, type, year, status and order.
 <table>
   <tr>
-    <td>![Nav](img/Nav.png)</td>
-    <td>![Bar](img/Bar.png)</td>
+    <td><img src="https://raw.githubusercontent.com/HolmesD0/Anime/main/img/Nav.png" alt="Nav" /></td>
+    <td><img src="https://raw.githubusercontent.com/HolmesD0/Anime/main/img/Bar.png" alt="Bar" /></td>
   </tr>
   <tr>
-    <td>![NavAnime](img/NavAnime.png)</td>
-    <td>![BarAnime](img/BarAnime.png)</td>
+    <td><img src="https://raw.githubusercontent.com/HolmesD0/Anime/main/img/NavAnime.png" alt="NavAnime" /></td>
+    <td><img src="https://raw.githubusercontent.com/HolmesD0/Anime/main/img/BarAnime.png" alt="BarAnime" /></td>
   </tr>
-  <tr>
-    <td>![Search](img/Search.png)</td>
-  </tr>
+  <tr><img src="https://raw.githubusercontent.com/HolmesD0/Anime/main/img/Search.png" alt="Search" /></tr>
 </table>
 
 ### Watch Episode
 #### This section will show the episode, as well as the chapters following or preceding it, and the information of the anime, such as its synopsis, what genre it has, number of episodes, duration of each episode, release date, if it is finished or in broadcast, its sequels or prequels and alternative titles, it also has the option to see the trailer of the anime and finally the anime similar to this.
 <table>
   <tr>
-    <td>![Video](img/Video.png)</td>
-    <td>![EpsVideo](img/EpsVideo.png)</td>
+    <td><img src="https://raw.githubusercontent.com/HolmesD0/Anime/main/img/Video.png" alt="Video" /></td>
+    <td><img src="https://raw.githubusercontent.com/HolmesD0/Anime/main/img/EpsVideo.png" alt="EpsVideo" /></td>
   </tr>
 </table>
 
 ### Coming Soon
 #### In this section is the news to read from the anime. It also has a mini section to see more news.
 ![Trailer](img/Trailer.png)
+
+<br />
+
