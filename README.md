@@ -1,5 +1,5 @@
 # Anime
-Static anime website inspired by JKanime, AnimeFLV, Otakustv and AnimeID.
+Dynamic anime sigle page website.
 
 ## Technologies
 This website was made with the following technologies:
