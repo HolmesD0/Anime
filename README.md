@@ -30,9 +30,9 @@ This webpage contains 3 main sections: **Home**, **NavBar** and **Anime**. In ad
 
 ### Watch Episode
 #### This section will show the episode, as well as the chapters following or preceding it, and the information of the anime, such as its synopsis, what genre it has, number of episodes, duration of each episode, release date, if it is finished or in broadcast, its sequels or prequels and alternative titles, it also has the option to see the trailer of the anime and finally the anime similar to this.
-![Video](img/Video.pnh)
-![EpsVideo](img/EpsVideo.pnh)
+![Video](img/Video.png)
+![EpsVideo](img/EpsVideo.png)
 
 ### Coming Soon
 #### In this section is the news to read from the anime. It also has a mini section to see more news.
-![Trailer](img/Trailer.pnh)
+![Trailer](img/Trailer.png)
