@@ -1,11 +1,14 @@
 # Anime
-Dynamic anime sigle page website.
+MERN Stack.
+![Stack](img/Stack.png)
 
 ## Technologies
 This website was made with the following technologies:
-- HTML5
-- CSS3
-- JavaScript
+- Python
+- MongoDB
+- Node.js
+- React.js
+- Express.js
 
 ## Sections
 This webpage contains 3 main sections: **Home**, **NavBar** and **Anime**. In addition to having other sections such as **Watch Episode**, **Anime Information** and **Coming Soon**.
