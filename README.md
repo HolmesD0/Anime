@@ -6,7 +6,6 @@
 
 <h2 align="center">🖥️ Tech Stack</h2>
 
-
 <h4 align="center">Frontend:</h4>
 
 <p align="center">
@@ -14,7 +13,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
 </p>
-
 
 <h4 align="center">Backend:</h4>
 
