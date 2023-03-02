@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat" alt="python" />
 </p>
 
 # Anime
