@@ -1,6 +1,6 @@
-<h1 align="center">Nike Clone</h1>
+<h1 align="center">MERN Stack.</h1>
 
-<h3 align="center">It's a MERN Stack E-commerce web application with all the major functionalities</h3>
+<h3 align="center">It's a MERN Stack Single-Page Application for Anime</h3>
 
 <br />
 
@@ -19,23 +19,11 @@
 <h4 align="center">Backend:</h4>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-F9DC3E?logo=python&style=for-the-badge" alt="python" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-  <img src="https://img.shields.io/badge/Python-F9DC3E?logo=python&style=for-the-badge" alt="python" />
 </p>
-
-# Anime
-MERN Stack.
-![Stack](img/Stack.png)
-
-## Technologies
-This website was made with the following technologies:
-- Python
-- MongoDB
-- Node.js
-- React.js
-- Express.js
 
 ## Sections
 This webpage contains 3 main sections: **Home**, **NavBar** and **Anime**. In addition to having other sections such as **Watch Episode**, **Anime Information** and **Coming Soon**.
