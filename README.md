@@ -1,6 +1,6 @@
-<h1 align="center">MERN Stack.</h1>
+<h1 align="center">Python MERN Stack.</h1>
 
-<h3 align="center">It's a MERN Stack Single-Page Application for Anime</h3>
+<h3 align="center">It's a Python MERN Stack Single-Page Application for Anime</h3>
 
 <br />
 
