@@ -2,7 +2,7 @@
 
 <h3 align="center">It's a Python MERN Stack Single-Page Application for Anime</h3>
 
-![Trailer](img/Trailer.png)
+![Stack](img/Stack.png)
 
 <h2 align="center">🖥️ Tech Stack</h2>
 
